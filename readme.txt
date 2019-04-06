@@ -4,4 +4,8 @@ lalalalala
 lalalalal
 lalalal
 jhffhjj
+<<<<<<< HEAD
 fffffffddssf
+=======
+create a new branch is quick and simple;
+>>>>>>> feature
